@@ -1,0 +1,108 @@
+.container {
+  width: 50%;
+  margin: auto;
+}
+
+.write_post_container {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 20px;
+  color: #626262;
+}
+
+.user_profile {
+  display: flex;
+  align-items: center;
+}
+
+.user_profile img {
+  width: 45px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.user_profile p {
+  margin-bottom: -5px;
+  font-weight: 500;
+  color: #626262;
+}
+
+.user_profile small {
+  font-size: 12px;
+}
+
+.post_input_container {
+  padding-left: 55px;
+  padding-top: 20px;
+}
+
+.post_input_container textarea {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  border-bottom: 1px solid #ccc;
+  background: transparent;
+  resize: none;
+}
+
+.btn_gif {
+  padding: 5px 10px;
+}
+
+.post_container {
+  width: 100%;
+  background: #fff;
+  border-radius: 6px;
+  padding: 20px;
+  color: #626262;
+  margin: 20px 0px;
+}
+
+.user_profile span {
+  font-size: 13px;
+  color: #9a9a9a;
+}
+
+.post_text {
+  color: #9a9a9a;
+  margin: 15px 0px;
+  font-size: 15px;
+}
+
+.post_text span {
+  color: #626262;
+  font-weight: 500;
+}
+
+.post_img {
+  width: 50%;
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
+
+.add_post_links .dropdown-menu {
+  width: 300px;
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.gif_image {
+  width: 100%;
+  height: 100%;
+}
+
+.single_gif {
+  margin: 0px;
+  padding: 5px;
+}
+
+.single_gif a{
+  cursor: pointer;
+}
+
+
+
+.selected_gif{
+  width: 50%;
+}
